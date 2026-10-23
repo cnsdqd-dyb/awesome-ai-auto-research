@@ -1190,4 +1190,3 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 *Last updated: 2026-10-11 · Maintained by [WorldBench](https://github.com/worldbench)*
 
 </div>
-
